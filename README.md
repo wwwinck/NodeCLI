@@ -6,10 +6,10 @@ Enjoy 😎
 ## Install
 
 ```shell
-$ npm i -g 
+$ npm i -g @kardiah/holidates
 ```
 
 ### How to use
 
 ```shell
-$
+$ holidates [Enter a country]
