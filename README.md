@@ -6,7 +6,7 @@ Enjoy 😎
 ## Install
 
 ```shell
-$ npm i -g @kardiah/holidates
+$ npm i @kardiah/holidates
 ```
 
 ### How to use
