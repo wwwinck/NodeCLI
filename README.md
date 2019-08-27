@@ -17,3 +17,7 @@ $ holidates [Enter a country]
 
 ## Package Used
 * [country-list](https://www.npmjs.com/package/country-list)
+* [axios](https://www.npmjs.com/package/axios)
+* [ora](https://www.npmjs.com/package/ora)
+* [chalk](https://www.npmjs.com/package/chalk)
+* [figlet](https://www.npmjs.com/package/figlet)
