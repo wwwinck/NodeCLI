@@ -1,5 +1,5 @@
 {
-  "name": "nodecli",
+  "name": "@kardiah/holidates",
   "version": "1.0.0",
   "description": "Cli application",
   "main": "index.js",
