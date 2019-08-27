@@ -13,6 +13,7 @@ $ npm i -g @kardiah/holidates
 
 ```shell
 $ holidates [Enter a country]
+```
 
 ## Package Used
 * [country-list](https://www.npmjs.com/package/country-list)
