@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Kardiah/NodeCLI#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "chalk": "^2.4.2",
     "country-list": "^2.2.0",
     "figlet": "^1.2.3",
